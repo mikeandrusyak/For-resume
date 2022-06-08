@@ -1,12 +1,12 @@
-Відкрийте файл "houses prices.ipynb". В цьому файлі ви знайдете програму яка навчилась оцінювати вартість житла враховуючи його характеристики.
-Кожен крок виконання коду описаний в файлі
+Open the "houses prices.ipynb" file. In this file you will find a program that has learned to estimate the cost of housing based on its characteristics.
+Each step of code execution is described in the file.
 
-Файл "data_description.txt" містить опис характеристик даних скачаних з сайту Kaggle. Нижче посилання.
+The file "data_description.txt" contains a description of the characteristics of the data downloaded from the Kaggle site. Below is the link.
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 
-Файл "train.csv" містить дані для навчання.
-Файл "test.csv" містить дані для перевірки.
+The "train.csv" file contains training data.
+The "test.csv" file contains data for verification.
 
-Файл "sample_submission.csv" містить результат даних для перевірки
+The sample_submission.csv file contains the result of the data to be verified.
 
-Файл "Prediction of price" містить результат роботи програми
+The "Prediction of price" file contains the result of the program.
